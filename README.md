@@ -1,2 +1,2 @@
-# 7.07-Render_Props_Adding_DonationColor
+# 7.06-Creating_HOC-Function_called_with_Donation_Color
 Created with CodeSandbox
